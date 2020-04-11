@@ -1,6 +1,6 @@
 # Proyecto Firebase para la web de Almería JS
 
-## Instrucciones para publicar una nueva build
+### Instrucciones para publicar una nueva build
 
 Actualizar el submódulo con el repo de la wweb
 

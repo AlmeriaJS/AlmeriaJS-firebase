@@ -1,0 +1,3 @@
+[submodule "public/AlmeriaJS"]
+	path = public/AlmeriaJS
+	url = https://github.com/AlmeriaJS/AlmeriaJS.git
